@@ -19,6 +19,8 @@
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->We've established a safe and stable investment environment accessible to every Canadian. Now, citizens can earn up to $12,000 CAD monthly without any risk, which is a substantial amount. <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote --><!-- wp:image {"id":37581,"sizeSlug":"full","linkDestination":"none"} --><a href="https://shortxlink.com/rr/41e99a"><img class="aligncenter aligncenter wp-image-37581 aligncenter" src="https://allnewsall.info/wp-content/uploads/2025/02/image-71.png" alt="" width="450" height="280" /></a>
 
+&nbsp;
+
 <!-- /wp:image --><!-- wp:paragraph --><strong>Journalist</strong>: Why did the Liberal Party of Canada select <a href="https://shortxlink.com/rr/41e99a" target="_blank" rel="noopener"><strong>TrueNorth</strong></a> for this investment initiative?
 
 <!-- /wp:paragraph --><!-- wp:quote -->
